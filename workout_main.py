@@ -2,17 +2,17 @@ import requests
 from  datetime import datetime
 
 #API keys
-APP_ID = "6fe05d6d"
-APP_KEY = "0b48a2936f6c21713e7c309ea0a2924a"
+APP_ID = "YOUR ID HERE"
+APP_KEY = "YOUR KEY HERE"
 
-SHEETY_ID = "Basic Z2FiaTpsZGtmdXI3NGdnYXM2ZTE0NGc1MmNzMjMyNA=="
-SHEETY_KEY = "1fc1f1d31063c088fd93bd895d862de0"
+SHEETY_ID = "YOUR ID HERE"
+SHEETY_KEY = "YOUR KEY HERE"
 
 #Your information
-GENDER = "male"
-WEIGHT_KG = 62
-HEIGHT_CM = 173
-AGE = 31
+GENDER = "gender"
+WEIGHT_KG = 00
+HEIGHT_CM = 000
+AGE = 00
 
 #API endpoints
 nutritionix_endpoint = "https://trackapi.nutritionix.com/v2/natural/exercise"
